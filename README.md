@@ -83,3 +83,59 @@ Outlook Support Team
 
 ---
 
+## Question 5
+
+**What is the sender's email address?**
+
+Also found in the From: header.
+
+<img src="https://i.imgur.com/w0xOxVr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<b>Answer:</b>
+social201511138@social.helwan.edu.eg
+
+---
+
+## Question 6
+
+**What email address is used for receiving bounced emails?**
+
+Check the Return-Path: header, which specifies the address for bounce handling.
+
+<img src="https://i.imgur.com/vl5Wa0I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<b>Answer:</b>
+social201511138@social.helwan.edu.eg
+
+---
+
+## Question 7
+
+**What is the IP address of the sender's email server?**
+
+Look for the X-Sender-IP: header.
+
+<img src="https://i.imgur.com/bSWCWeC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<b>Answer:</b>
+40.107.22.60
+
+---
+
+## Question 8
+
+**What is the resolved hostname of the sender's IP address?**
+
+Use a tool like [DomainTools Whois Lookup](https://whois.domaintools.com/) to resolve the IP.
+
+<img src="https://i.imgur.com/tJdA2Md.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<img src="https://i.imgur.com/kaAai4c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<b>Answer:</b>
+mail-am6eur05on2060.outbound.protection.outlook.com
