@@ -255,11 +255,10 @@ hxxps[://]0[.]232[.]205[.]92[.]host[.]secureserver[.]net/lclbluewin08812/
 
 2. Visit [VirusTotal](https://www.virustotal.com/gui/home/upload).
 
-<img src="https://i.imgur.com/jr5n7DG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-
 3. Submit the URL for analysis.
 
+<img src="https://i.imgur.com/jr5n7DG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
 4. Look for Fortinet in the list of security vendors
 
@@ -270,3 +269,17 @@ hxxps[://]0[.]232[.]205[.]92[.]host[.]secureserver[.]net/lclbluewin08812/
 Phishing
 
 ---
+
+## Question 16
+
+**[Yes or No] - After your analysis, is this email genuine?**
+
+<b>Answer:</b>
+No
+
+---
+
+📝 Acknowledgement
+
+Thanks to TCM Security for providing this hands-on phishing lab challenge.
+For more training and content, visit: [https://academy.tcm-sec.com](https://academy.tcm-sec.com)
