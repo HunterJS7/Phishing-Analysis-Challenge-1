@@ -68,3 +68,18 @@ Find the To: header in the .eml file.
 dderringer@mighty-solutions.net
 
 ---
+
+## Question 4
+
+**Based on the sender's display name, who does the email claim to be from?**
+
+Locate the From: header. The display name precedes the actual email address.
+
+<img src="https://i.imgur.com/i9imOd3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<b>Answer:</b>
+Outlook Support Team
+
+---
+
