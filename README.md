@@ -225,11 +225,12 @@ base64
    <img src="https://i.imgur.com/1G0262u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-3. Go to [CyberChef](https://gchq.github.io/CyberChef/).
+2. Go to [CyberChef](https://gchq.github.io/CyberChef/).
 
+<img src="https://i.imgur.com/QjNbJyE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
-
-5. Use the following operations:
+3. Use the following operations:
 
 ``From Base64``
 
@@ -237,4 +238,10 @@ base64
 
 ``Defang URL``
 
-Answer:
+<img src="https://i.imgur.com/I1rAHx7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<b>Answer:</b>
+hxxps[://]0[.]232[.]205[.]92[.]host[.]secureserver[.]net/lclbluewin08812/
+
+---
