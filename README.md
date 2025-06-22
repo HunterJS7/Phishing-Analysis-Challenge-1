@@ -186,3 +186,55 @@ Use this command in a terminal to query DNS TXT records:
 <b>Answer:</b>
 ``v=spf1 include:spf.protection.outlook.com -all``
 
+---
+
+## Question 12
+
+**What is the email's Message-ID?**
+
+Locate the Message-ID: header in the file.
+
+<img src="https://i.imgur.com/jX3aQje.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<b>Answer:</b>
+JMrByPl2c3HBo8SctKnJ5C5Gp64sPSSWk76p4sjQ@s6
+
+---
+
+## Question 13
+
+**What type of encoding was used to transfer the email body content?**
+
+Look for the Content-Transfer-Encoding: header.
+
+<img src="https://i.imgur.com/zIAZ8BJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<b>Answer:</b>
+base64
+
+---
+
+## Question 14
+
+**In defanged format, what is the second URL extracted from the email?**
+
+1. Copy the Base64-encoded content from the email body.
+
+   <img src="https://i.imgur.com/1G0262u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+3. Go to [CyberChef](https://gchq.github.io/CyberChef/).
+
+
+
+5. Use the following operations:
+
+``From Base64``
+
+``Extract URLs``
+
+``Defang URL``
+
+Answer:
