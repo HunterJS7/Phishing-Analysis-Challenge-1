@@ -19,6 +19,9 @@ Instead, open the email in **Sublime Text**:
 ``subl challenge1.eml
 Scroll down to the Date: header to find the precise timestamp.``
 
+<img src="https://i.imgur.com/8b1BVLM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
 <b>Answer:</b>
 Tue, 31 Oct 2023 10:10:04 -0900
 
