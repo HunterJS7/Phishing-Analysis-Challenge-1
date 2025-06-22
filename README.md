@@ -17,9 +17,9 @@ To answer this, begin by opening the `.eml` file in **Thunderbird**. While Thund
 
 Instead, open the email in **Sublime Text**:
 
-```bash
-subl challenge1.eml
-Scroll down to the Date: header to find the precise timestamp.
+
+``subl challenge1.eml
+Scroll down to the Date: header to find the precise timestamp.``
 
 Answer:
 
