@@ -245,3 +245,28 @@ base64
 hxxps[://]0[.]232[.]205[.]92[.]host[.]secureserver[.]net/lclbluewin08812/
 
 ---
+
+## Question 15
+
+**Perform a VirusTotal scan on the URL. What verdict did Fortinet assign to it?**
+
+1. Decode and copy the URL from CyberChef.
+
+
+2. Visit [VirusTotal](https://www.virustotal.com/gui/home/upload).
+
+<img src="https://i.imgur.com/jr5n7DG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+3. Submit the URL for analysis.
+
+
+4. Look for Fortinet in the list of security vendors
+
+<img src="https://i.imgur.com/4pZlDcD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<b>Answer:</b>
+Phishing
+
+---
