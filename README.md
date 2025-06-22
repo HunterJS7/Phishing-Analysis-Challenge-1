@@ -21,12 +21,11 @@ To answer this, begin by opening the `.eml` file in **Thunderbird**. While Thund
 <br />
 
 
-Instead, open the email in **Sublime Text**:
+Instead, open the email in **Sublime Text**:``subl challenge1.eml``
 
    <img src="https://i.imgur.com/cVqc35W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-``subl challenge1.eml``
 Scroll down to the Date: header to find the precise timestamp.
 
 <img src="https://i.imgur.com/5CPmXPd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
