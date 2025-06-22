@@ -53,5 +53,18 @@ Look for the Subject: header in the email file.
 <b>Answer:</b>
 Your account has been flagged for unusual activity
 
+---
 
+## Question 3
 
+**Who was the email sent to?**
+
+Find the To: header in the .eml file.
+
+<img src="https://i.imgur.com/yZbTGRA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<b>Answer:</b>
+dderringer@mighty-solutions.net
+
+---
