@@ -41,7 +41,7 @@ Tue, 31 Oct 2023 10:10:04 -0900
 ---
 
 Question 2
-What is the subject of the email?
+**What is the subject of the email?**
 
 Look for the Subject: header in the email file.
 
