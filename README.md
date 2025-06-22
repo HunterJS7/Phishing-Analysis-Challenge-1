@@ -139,3 +139,50 @@ Use a tool like [DomainTools Whois Lookup](https://whois.domaintools.com/) to re
 
 <b>Answer:</b>
 mail-am6eur05on2060.outbound.protection.outlook.com
+
+---
+
+## Question 9
+
+**What corporation owns the sender's IP address?**
+
+The Whois results will list the ASN/organization.
+
+<img src="https://i.imgur.com/SylIjin.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<b>Answer:</b>
+MICROSOFT
+
+---
+
+## Question 10
+
+**What was the result of the SPF check?**
+
+Find the Received-SPF: header for the sender domain.
+
+<img src="https://i.imgur.com/mA742S7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<b>Answer:</b>
+Pass
+
+---
+
+## Question 11
+
+**What is the full SPF record of the sender's domain?**
+
+Use this command in a terminal to query DNS TXT records:
+``nslookup -type=txt social.helwan.edu.eg | grep -i spf``
+
+<img src="https://i.imgur.com/yVmzf6r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<img src="https://i.imgur.com/ZizYX0m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<b>Answer:</b>
+``v=spf1 include:spf.protection.outlook.com -all``
+
