@@ -38,3 +38,19 @@ Scroll down to the Date: header to find the precise timestamp.``
 <b>Answer:</b>
 Tue, 31 Oct 2023 10:10:04 -0900
 
+---
+
+Question 2
+What is the subject of the email?
+
+Look for the Subject: header in the email file.
+
+ <img src="https://i.imgur.com/7nX54wU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+
+Answer:
+Your account has been flagged for unusual activity
+
+
+
