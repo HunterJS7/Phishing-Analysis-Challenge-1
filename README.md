@@ -50,7 +50,7 @@ Look for the Subject: header in the email file.
 <br />
 
 
-Answer:
+<b>Answer:</b>
 Your account has been flagged for unusual activity
 
 
