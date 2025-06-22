@@ -26,8 +26,8 @@ Instead, open the email in **Sublime Text**:
    <img src="https://i.imgur.com/cVqc35W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-``subl challenge1.eml
-Scroll down to the Date: header to find the precise timestamp.``
+``subl challenge1.eml``
+Scroll down to the Date: header to find the precise timestamp.
 
 <img src="https://i.imgur.com/5CPmXPd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
