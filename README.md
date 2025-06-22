@@ -2,8 +2,6 @@
 
 # Phishing Email Analysis – Challenge Walkthrough
 
-# Phishing Email Analysis – Challenge Walkthrough
-
 **Challenge File:**  
 `01_Phishing_Analysis/Challenges/challenge1.eml`
 
