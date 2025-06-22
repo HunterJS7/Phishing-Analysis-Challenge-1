@@ -1,6 +1,10 @@
 # Phishing-Analysis-Challenge-1
 
-# Phishing Email Analysis – Challenge Walkthrough
+<h1>Instructions:</h1>
+
+You are a SOC Analyst at Mighty Solutions, Inc. An account executive, Dana Derringer, noticed a warning email in her inbox claiming her online access has been disabled. However, she noticed this was odd as she is still able to access her online business platforms and inbox. She decided to forward the email in question to the security team's phishing mailbox for review.
+
+Using what you've learned within this domain, perform a detailed email analysis on the <b>challenge1.eml</b> file to answer the report questions below.
 
 **Challenge File:**  
 `01_Phishing_Analysis/Challenges/challenge1.eml`
